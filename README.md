@@ -1,6 +1,6 @@
 # 👋 Hi, I'm almadhlom
 
-### 🐍 Python | 🤖 Automation | 🔐 Cyber Security | 🧠 AI Enthusiast
+### 🐍 Python | 🤖 Automation | 🔐 Cyber Security | 🧠 AI Enthusiast - Update:Master-Life OS General Version on 06.2026
 
 I am a beginner developer who is passionate about Python and learning how to build useful tools step by step.  
 I love exploring automation, cyber security fundamentals, and AI technologies.
