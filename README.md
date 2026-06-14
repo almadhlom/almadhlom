@@ -1,5 +1,15 @@
 # 👋 Hi, I'm almadhlom
 
+
+
+⚠️ Auto-generated issue.
+
+If the mentioned files or features do not exist in the repository, please comment first before starting work.
+
+
+
+
+
 ### 🐍 Python | 🤖 Automation | 🔐 Cyber Security | 🧠 AI Enthusiast - Update:Master-Life OS General Version on 06.2026
 
 I am a beginner developer who is passionate about Python and learning how to build useful tools step by step.  
